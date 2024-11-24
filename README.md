@@ -65,4 +65,4 @@ See on [Documentation](https://luffos.github.io/rxn-input/docs)
 </a>
 
 ##  📄 License
-MIT - This module was built with ❤️ by [Luffos](https://github.com/Luffos)<br/>Feel free for modify, edit, copy, fork and share
+MIT - Feel free for modify, edit, copy, fork and share
